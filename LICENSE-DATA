@@ -1,0 +1,59 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Ryan Xu / Xceed Realty
+
+WHAT THIS COVERS
+
+Every file under data/ and sources/, plus README.md, scripts/README.md and
+data/README.md.
+
+The code under scripts/ is licensed separately under the MIT License. See
+LICENSE.
+
+WHAT YOU MAY DO
+
+Share and adapt this material for any purpose, including commercially,
+provided you give appropriate credit, link to this license, and indicate
+whether changes were made.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+HOW TO ATTRIBUTE
+
+  Ryan Xu (2026). Seattle Home Orientation & Sunlight: reproducible evidence.
+  https://github.com/ryanlingxiao/seattle-home-orientation-sunlight
+  Licensed under CC BY 4.0.
+
+WHAT THIS DOES NOT COVER
+
+This license applies to the compilation and to the values derived by this
+project. It does not, and cannot, place conditions on the underlying public
+domain sources:
+
+  - ASOS / METAR observations, Iowa State University Environmental Mesonet.
+    Public domain. Free for any lawful purpose. Attribution to the Iowa
+    Environmental Mesonet is appreciated but not required.
+  - NOAA / NCEI Comparative Climatic Data. United States federal government
+    work, public domain.
+  - Western Regional Climate Center published values, derived from NCDC / NOAA
+    observations. Public domain.
+
+Anyone is free to obtain these directly from the institutions above under
+their own terms.
+
+Two further items carry third-party conditions and are cited rather than
+relicensed here:
+
+  - PVGIS v5.3 output, European Commission Joint Research Centre. Free to use
+    with attribution to PVGIS.
+  - data/nahb_2019_table3_great_room_contents.csv re-keys factual figures from
+    a NAHB report. Facts are not subject to copyright; the report itself is
+    not redistributed here, and the official link is given in sources/SOURCES.md.
+
+IMPORTANT: EVERY FIGURE CARRIES CAVEATS
+
+If you reuse these numbers, please carry the three limitations stated in
+README.md with them. In particular, the geometric and irradiance figures are
+upper bounds that exclude trees, neighbouring buildings and eaves, and the
+cloud observations describe the Sea-Tac Airport area specifically.

@@ -1,0 +1,24 @@
+# Seattle Home Orientation & Sunlight
+#
+# Versions below are the ones this repository was verified against on
+# 2026-09-03, running Python 3.12.10 on Windows. Every script ran clean and
+# every published figure reproduced on exactly these versions.
+#
+# The lower bounds are deliberately loose: the analysis uses long-stable APIs
+# and should run on considerably older releases. If you hit a discrepancy,
+# pin to the exact versions in the comments below and open an issue.
+#
+#     pip install -r requirements.txt
+#
+# fetch.py needs nothing beyond the Python standard library.
+# analyze.py and t1 through t7, verify.py and verify2.py need pandas and numpy.
+# solar_position_summary.py, sun_depth_eight_orientations.py and
+# verify_north_evening.py additionally need pvlib.
+
+pvlib>=0.10          # verified on 0.15.2
+pandas>=2.0          # verified on 3.0.5
+numpy>=1.24          # verified on 2.4.6
+
+# pvlib pulls scipy in as a dependency for the clear-sky model used by
+# verify_north_evening.py. Listed explicitly so the requirement is visible.
+scipy>=1.10          # verified on 1.17.1

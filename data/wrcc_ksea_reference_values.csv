@@ -1,0 +1,4 @@
+station,measure,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec,annual
+SEATTLE-TACOMA AP,percent_of_possible_sunshine_pct,28,40,50,52,56,56,65,65,62,43,28,23,47
+SEATTLE-TACOMA AP,mean_clear_days,3,3,3,3,4,5,10,9,8,4,2,2,58
+SEATTLE-TACOMA AP,mean_cloudy_days,24,21,22,20,18,17,11,12,13,19,23,25,226

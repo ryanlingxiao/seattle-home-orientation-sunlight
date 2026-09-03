@@ -1,0 +1,31 @@
+# Raw and intermediate data produced by running the scripts.
+# These are deliberately not committed. See README, "What this repository
+# deliberately does not contain".
+scripts/sea_asos.csv
+scripts/sea.epw
+scripts/clean.pkl
+*.pkl
+
+# Regenerated outputs. The committed copies live in data/; a clean run should
+# reproduce them byte for byte, so the working copies stay untracked.
+scripts/t1_wet.csv
+scripts/t3_summer.csv
+scripts/t2_month_hour_nosun.csv
+scripts/t2_month_hour_ovc.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.bak-*
