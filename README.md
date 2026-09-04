@@ -7,7 +7,7 @@ Every number in the article can be recomputed from the scripts and data in this 
 
 - **Article / 文章**: <https://xceedwa.com/blog/seattle-home-orientation-sunlight>
 - **Video / 视频**: <https://www.youtube.com/watch?v=teF-Q4JQ-E8>
-- **Author / 作者**: Ryan Xu· Xceed Realty · Bellevue, WA
+- **Author / 作者**: Ryan Xu · Xceed Realty · Bellevue, WA
 - **License**: MIT for code, CC BY 4.0 for data and documentation. See [Licensing](#licensing--授权).
 
 ---
