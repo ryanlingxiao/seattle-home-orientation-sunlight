@@ -7,7 +7,7 @@ Every number in the article can be recomputed from the scripts and data in this 
 
 - **Article / 文章**: <https://xceedwa.com/blog/seattle-home-orientation-sunlight>
 - **Video / 视频**: <https://www.youtube.com/watch?v=teF-Q4JQ-E8>
-- **Author / 作者**: Ryan Xu（中文名凌霄）· Xceed Realty · Bellevue, WA
+- **Author / 作者**: Ryan Xu· Xceed Realty · Bellevue, WA
 - **License**: MIT for code, CC BY 4.0 for data and documentation. See [Licensing](#licensing--授权).
 
 ---
@@ -235,7 +235,7 @@ Suggested citation:
 
 ## Contact
 
-Ryan Xu（中文名凌霄）
+Ryan Xu
 Xceed Realty · Bellevue, WA
 Washington State real estate broker, license **20108301**
 <ryan@xceedwa.com> · <https://xceedwa.com/>
@@ -386,7 +386,7 @@ python verify2.py   # 逐月对 WRCC 发表的晴阴天日数
 
 ## 联系方式
 
-Ryan Xu（中文名凌霄）
+Ryan Xu
 Xceed Realty · Bellevue, WA
 Washington State 地产经纪执照 **20108301**
 <ryan@xceedwa.com> · <https://xceedwa.com/>
