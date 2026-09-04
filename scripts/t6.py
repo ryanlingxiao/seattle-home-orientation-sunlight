@@ -2,7 +2,7 @@
 # =============================================================================
 # 12 月阴天日数交叉验证
 # 出自《西雅图买房该选什么朝向？后院八个方向的光照，用 21 年气象数据算了一遍》
-# https://xceedwa.com/zh/seattle-home-orientation-sunlight
+# https://xceedwa.com/blog/seattle-home-orientation-sunlight
 #
 # 算什么   : 用 NOAA 的「阴天 / 晴天」日定义，从 ASOS 侧独立重建 12 月的晴阴天数，与 NOAA CCD 发表值对照
 # 数据源   : clean.pkl

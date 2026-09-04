@@ -2,7 +2,7 @@
 # =============================================================================
 # 第 2 步 · 清洗与云量分级
 # 出自《西雅图买房该选什么朝向？后院八个方向的光照，用 21 年气象数据算了一遍》
-# https://xceedwa.com/zh/seattle-home-orientation-sunlight
+# https://xceedwa.com/blog/seattle-home-orientation-sunlight
 #
 # 算什么   : 把每条观测的 4 层云况折成一个总云量等级（CLR<FEW<SCT<BKN<OVC<VV），并把 METAR 的 HH:53 归到 HH+1 整点
 # 数据源   : 上一步产出的 sea_asos.csv

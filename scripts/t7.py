@@ -2,7 +2,7 @@
 # =============================================================================
 # 雨季 SCT 以上占比
 # 出自《西雅图买房该选什么朝向？后院八个方向的光照，用 21 年气象数据算了一遍》
-# https://xceedwa.com/zh/seattle-home-orientation-sunlight
+# https://xceedwa.com/blog/seattle-home-orientation-sunlight
 #
 # 算什么   : 雨季逐时「疏云或更好」的占比，以及上下午差
 # 数据源   : clean.pkl

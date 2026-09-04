@@ -2,7 +2,7 @@
 # =============================================================================
 # 第 1 步 · 抓取 KSEA 原始云观测
 # 出自《西雅图买房该选什么朝向？后院八个方向的光照，用 21 年气象数据算了一遍》
-# https://xceedwa.com/zh/seattle-home-orientation-sunlight
+# https://xceedwa.com/blog/seattle-home-orientation-sunlight
 #
 # 算什么   : 从 Iowa State Mesonet 下载 KSEA 站 2005 到 2025 的逐时 ASOS/METAR 云量、能见度与天气现象码
 # 数据源   : Iowa State University Environmental Mesonet · ASOS/METAR 存档 · 站点 KSEA · 2005-01-01 到 2025-12-30（公有领域）

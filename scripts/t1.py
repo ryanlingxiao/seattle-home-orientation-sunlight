@@ -2,7 +2,7 @@
 # =============================================================================
 # 表一与表三 · 雨季与夏季逐时云况
 # 出自《西雅图买房该选什么朝向？后院八个方向的光照，用 21 年气象数据算了一遍》
-# https://xceedwa.com/zh/seattle-home-orientation-sunlight
+# https://xceedwa.com/blog/seattle-home-orientation-sunlight
 #
 # 算什么   : 雨季（11 到 3 月）与夏季（6 到 8 月）各时段的云况占比。产出文中的 79% 到 86% 云盖满、CLR 2%、09:00 峰值 85.6%
 # 数据源   : clean.pkl

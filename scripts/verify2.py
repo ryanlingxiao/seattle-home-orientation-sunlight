@@ -2,7 +2,7 @@
 # =============================================================================
 # 校准二 · 按 WRCC 原始定义逐月对表
 # 出自《西雅图买房该选什么朝向？后院八个方向的光照，用 21 年气象数据算了一遍》
-# https://xceedwa.com/zh/seattle-home-orientation-sunlight
+# https://xceedwa.com/blog/seattle-home-orientation-sunlight
 #
 # 算什么   : 按 WRCC/NCDC 的「白天平均云量十分制」定义重建晴天与阴天日数，逐月与 WRCC 发表值对照
 # 数据源   : clean.pkl

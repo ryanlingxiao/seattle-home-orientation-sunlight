@@ -5,9 +5,7 @@ Every number in the article can be recomputed from the scripts and data in this 
 
 **这是一篇文章的可复算证据。文章里的每一个数字，你都可以自己跑一遍。**
 
-- **Article / 文章**: <https://xceedwa.com/zh/seattle-home-orientation-sunlight>
-  ⚠ **This URL is pending confirmation** while the publishing platform's slug behavior is being verified. If it does not resolve, the article is reachable from <https://xceedwa.com/>.
-  ⚠ **该链接待确认**，发布平台的 slug 行为仍在验证中。若打不开，请从 <https://xceedwa.com/> 进入。
+- **Article / 文章**: <https://xceedwa.com/blog/seattle-home-orientation-sunlight>
 - **Video / 视频**: <https://www.youtube.com/watch?v=teF-Q4JQ-E8>
 - **Author / 作者**: Ryan Xu（中文名凌霄）· Xceed Realty · Bellevue, WA
 - **License**: MIT for code, CC BY 4.0 for data and documentation. See [Licensing](#licensing--授权).

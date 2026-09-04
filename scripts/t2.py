@@ -2,7 +2,7 @@
 # =============================================================================
 # 表二 · 逐月逐时矩阵与上下午切分
 # 出自《西雅图买房该选什么朝向？后院八个方向的光照，用 21 年气象数据算了一遍》
-# https://xceedwa.com/zh/seattle-home-orientation-sunlight
+# https://xceedwa.com/blog/seattle-home-orientation-sunlight
 #
 # 算什么   : 月份 × 本地小时的云况矩阵，以及上午 09-13 对下午 14-18 的差距。产出雨季 4.27 个百分点与 June gloom 那组数字
 # 数据源   : clean.pkl

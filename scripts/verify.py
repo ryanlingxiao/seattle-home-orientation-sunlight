@@ -2,7 +2,7 @@
 # =============================================================================
 # 校准一 · 对 WRCC 实测日照百分率与 TMY3 辐照
 # 出自《西雅图买房该选什么朝向？后院八个方向的光照，用 21 年气象数据算了一遍》
-# https://xceedwa.com/zh/seattle-home-orientation-sunlight
+# https://xceedwa.com/blog/seattle-home-orientation-sunlight
 #
 # 算什么   : 把云观测反推的日面可见比例逐月对 WRCC 实测日照百分率；并用 TMY3 (sea.epw) 独立核对辐照，检出 PVGIS-ERA5 高报直射
 # 数据源   : clean.pkl 与 sea.epw

@@ -2,7 +2,7 @@
 # =============================================================================
 # 太阳高度角过滤
 # 出自《西雅图买房该选什么朝向？后院八个方向的光照，用 21 年气象数据算了一遍》
-# https://xceedwa.com/zh/seattle-home-orientation-sunlight
+# https://xceedwa.com/blog/seattle-home-orientation-sunlight
 #
 # 算什么   : 剔除太阳高度角 5 度以下的时段后重算上下午差距（4.27 降到 3.06 个百分点），并反推日面可见比例
 # 数据源   : clean.pkl
